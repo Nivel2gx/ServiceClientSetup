@@ -1,0 +1,15 @@
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\obj\Debug\ServiceClientSetup.csprojResolveAssemblyReference.cache
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\ServiceClientSetup.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\ServiceClientSetup.pdb
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\GeneXus.Programs.Common.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\GxClasses.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\log4net.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\Interop.SQLDMO.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\Jayrock-JSON.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\TZ4Net.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\Npgsql.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\MySQLDriverCS.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\Mono.Security.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\bin\Debug\GeneXus.Programs.Common.pdb
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\obj\Debug\ServiceClientSetup.dll
+C:\Proyectos\ProyVStudio\ServiceClientSetup\ServiceClientSetup\obj\Debug\ServiceClientSetup.pdb
