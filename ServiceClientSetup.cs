@@ -15,9 +15,11 @@ public class ServiceClientSetup			// El nombre de la clase es el mismo que el de
         string[] Parameter = Parameters.Split(';');
         String IdentStr = Parameter[1];
         String DGICert = Parameter[2];
-        String ClientCert = Parameter[3];
+        //String ClientCert = Parameter[3];
+        Byte[] bytes= System.Convert.FromBase64String(Parameter[3]);
         String Clientpassword = Parameter[4];
         String ServUri = Parameter[5];
+       
 
         if (eoName == "WS_eFactura")   // Este es el nombre dele external object para filtrar
         {
@@ -34,7 +36,8 @@ public class ServiceClientSetup			// El nombre de la clase es el mismo que el de
 
             // crtCLI = new System.Security.Cryptography.X509Certificates.X509Certificate2(ClientCert.Trim(), Clientpassword.Trim());
 
-            crtCLI = new System.Security.Cryptography.X509Certificates.X509Certificate2(ClientCert.Trim()); 
+            //crtCLI = new System.Security.Cryptography.X509Certificates.X509Certificate2(ClientCert.Trim());
+            crtCLI = new System.Security.Cryptography.X509Certificates.X509Certificate2(bytes);
             crtDGI = new System.Security.Cryptography.X509Certificates.X509Certificate2(DGICert.Trim());
 
             //Seteo al WS los certificados
